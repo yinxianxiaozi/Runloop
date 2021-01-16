@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "BE5EFED55F2FD15936E0F83224194AAE455ECF9F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "BE5EFED55F2FD15936E0F83224194AAE455ECF9F" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "4C66AD3E-26C2-4EEA-AB40-F051F3110300",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "BE5EFED55F2FD15936E0F83224194AAE455ECF9F" : "Runloop\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "RunLoop的基本使用",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "源代码\/RunLoop的基本使用\/RunLoop的基本使用.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "git@github.com:yinxianxiaozi\/Runloop.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BE5EFED55F2FD15936E0F83224194AAE455ECF9F"
+    }
+  ]
+}
